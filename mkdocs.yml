@@ -1,0 +1,11 @@
+site_name: 
+site_description: "This app is for Flower Crud operation"
+
+repo_url: https://github.com/NC9596/
+
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
